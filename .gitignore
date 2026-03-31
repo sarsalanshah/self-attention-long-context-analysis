@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# HuggingFace / models / datasets
+.cache/
+datasets/
+*.arrow
+
+# Training outputs
+results/
+checkpoints/
+*.bin
+*.pt
+
+# Mac
+.DS_Store
