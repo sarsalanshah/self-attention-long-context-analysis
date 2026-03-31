@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.30
+datasets>=2.10
+numpy>=1.23
+matplotlib>=3.6
+tqdm>=4.65
+scikit-learn>=1.2
